@@ -1,16 +1,9 @@
 # gradient_gen
 
-A new Flutter project.
+A Test Flutter project for practice.
 
-## Getting Started
+Generates random linear gradients and shows Hex code of colors used
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/62943847/199791052-7666d9d7-0bdd-4eb4-859e-cc7810f2f989.png)
+![image](https://user-images.githubusercontent.com/62943847/199791152-503a6ab0-cf7e-4631-a06a-368e1c6364a7.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
